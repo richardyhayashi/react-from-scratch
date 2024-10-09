@@ -1,0 +1,15 @@
+{
+  "name": "todo-01-vanilla",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.25.7",
+    "parcel-bundler": "^1.12.5"
+  }
+}
