@@ -15,3 +15,14 @@ React: 'https://codesandbox.io/p/sandbox/todo-full-react-zctt6?file=%2Fsrc%2FApp
 6.
 7.
 8.
+
+
+## React Terms
+
+* useRef
+* useState
+* useEffect
+* JSX
+* component
+* props
+* render
